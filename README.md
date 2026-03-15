@@ -30,6 +30,7 @@ Interactive slicers allow users to filter and explore the data easily.
 * Some categories experience **frequent stock shortages**
   
 ## Dashboard
+![Dashboard](https://github.com/kimayarpatil/zepto-sales-dashboard/blob/main/snapshoot%20of%20zepto%20sales%20dashboard.png)
 
 ## Author
 Kimaya Rajendra Patil
